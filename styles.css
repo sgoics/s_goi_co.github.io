@@ -82,6 +82,9 @@ top-form .inner-form{
 .content h1{
     Letter-spacing: 1px;
 }
+div.label{
+    color: gray;
+}
 
 header{
     background-color: #2F3E46;
